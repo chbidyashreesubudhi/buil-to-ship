@@ -1,0 +1,6 @@
+{
+  "name": "Nexus-AI: Enterprise Intelligence & Workflow Automation Suite",
+  "description": "Enterprise AI platform connecting cross-departmental workflows, autonomous agents, intelligent document parsing, and real-time operational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
